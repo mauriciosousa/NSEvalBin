@@ -1,0 +1,112 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K5000 (ID=0x11ba)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\mauricio\dev\NegativeSpace\bin\NS\B_Data\Managed\System.dll (this message is harmless)
+Could not open file E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/globalgamemanagers.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Banner from E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/globalgamemanagers.assets.resS
+desktop: 1920x1080 60Hz; virtual: 3360x1253 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.337048 ms
+Hello Tracker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+'E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/configSettings.txt' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+'E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/configSettings.txt' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UDPListener] Receiving in port: 22222
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sent request to port33333 with content AvatarMessage$146.193.224.141#1#22222
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CONFIG] Retrieving property: B.machine.address
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+'E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/configSettings.txt' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[CONFIG] Retrieving property: A.rpc.port
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+'E:/mauricio/dev/NegativeSpace/bin/NS/B_Data/configSettings.txt' not found
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FormatException: Input string was not in the correct format
+  at System.Int32.Parse (System.String s) [0x00000] in <filename unknown>:0 
+  at NSProperties.getPropertyInt (Location location, System.String property) [0x00000] in <filename unknown>:0 
+  at NSProperties.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Accepting clients at port 22222
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 92)
+
+We HAVE SURFACE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UDPListener] Receiving in port: 53803
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UDPHandheldListener] Listening at port 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cooking::cook/createTriangleMesh: user-provided triangle mesh descriptor is invalid!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 127)
+
+Cooking::cook/createTriangleMesh: user-provided triangle mesh descriptor is invalid!
+ 
+(Filename: ..\..\PhysXCooking\src\Cooking.cpp Line: 127)
+
+Negative Space Created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2260 -> priority: 1 

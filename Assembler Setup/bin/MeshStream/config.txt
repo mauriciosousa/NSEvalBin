@@ -1,0 +1,3 @@
+tcp.port=5009
+tcp.address=127.0.0.1
+tcp.sendrate=50

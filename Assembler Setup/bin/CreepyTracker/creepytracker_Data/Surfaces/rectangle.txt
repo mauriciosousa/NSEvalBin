@@ -1,0 +1,11 @@
+% 2017/07/26 14:12:21
+surface.name=Unknown Surface
+surface.kinect=DICAPRIO
+surface.bottom.left=-0.4346575:-0.4505603:3.187
+surface.bottom.right=0.1590118:-0.4505754:2.857
+surface.top.left=-0.4367262:0.7569387:3.183223
+surface.top.right=0.1569431:0.7569236:2.853223
+tracker.surface.bottom.left=0.3450323:0.6973093:1.578332
+tracker.surface.bottom.right=-0.3335897:0.6741787:1.595074
+tracker.surface.top.left=0.3028713:1.903322:1.535584
+tracker.surface.top.right=-0.3757508:1.880192:1.552326

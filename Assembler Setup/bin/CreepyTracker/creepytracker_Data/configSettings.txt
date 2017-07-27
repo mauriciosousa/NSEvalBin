@@ -1,0 +1,9 @@
+%Config File created in 2017-07-24 17:12:00
+udp.listenport=5003
+udp.broadcastport=5002
+udp.sensor.listener=5007
+udp.sendinterval=50
+tracker.mergedistance=0.3
+tracker.confidencethreshold=10
+kinect.XUXUBELEZA=XUXUBELEZA;-0.04980395;1.820286;1.652118;-0.002333805;-0.9838634;0.1785167;0.01179886
+kinect.DICAPRIO=DICAPRIO;-1.657854;0.9976408;-0.9607915;-0.01993693;0.2625325;0.01261702;0.9646347
