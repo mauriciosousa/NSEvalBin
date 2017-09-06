@@ -17,7 +17,7 @@ Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\bin\CreepyTracker\creepy
 Loading E:\GitHub\NSEvalBin\Instructor Setup\bin\CreepyTracker\creepytracker_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\bin\CreepyTracker\creepytracker_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading E:\GitHub\NSEvalBin\Instructor Setup\bin\CreepyTracker\creepytracker_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.019 seconds
+- Completed reload, in  0.045 seconds
 Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\bin\CreepyTracker\creepytracker_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\bin\CreepyTracker\creepytracker_Data\Managed\System.dll (this message is harmless)
 desktop: 1080x1920 60Hz; virtual: 1080x1920 at 0,0
@@ -25,7 +25,7 @@ desktop: 1080x1920 60Hz; virtual: 1080x1920 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.882100 ms
+UnloadTime: 1.041258 ms
 [UDP Broadcast] Sending at port: 53804
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -42,22 +42,14 @@ Accepting clients at port 5103
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-(0.0, 0.5, -0.2)
+Sent reply with surface's data SurfaceMessage$Instructor Surface#0.381:0.554:2.311#-0.287:0.573:2.436#0.394:1.758:2.207#-0.274:1.777:2.332#$AVESTRUZ:0.05147503:1.735505:2.311986:0.01937005:-0.9706821:0.2287293:0.07130181/ZELEONEL:0.4397987:0.5588373:-2.013232:-0.007162096:0.04536904:-0.01318714:0.9988576/
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-(0.0, 0.6, 0.0)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-(0.0, 0.4, -0.2)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-(0.0, 0.6, 0.0)
+Sent reply with surface's data SurfaceMessage$Instructor Surface#0.381:0.554:2.311#-0.287:0.573:2.436#0.394:1.758:2.207#-0.274:1.777:2.332#$AVESTRUZ:0.05147503:1.735505:2.311986:0.01937005:-0.9706821:0.2287293:0.07130181/ZELEONEL:0.4397987:0.5588373:-2.013232:-0.007162096:0.04536904:-0.01318714:0.9988576/
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1720 -> priority: 1 
-  Thread -> id: 2c0c -> priority: 1 
+  Thread -> id: 2a28 -> priority: 1 
+  Thread -> id: 2be4 -> priority: 1 
