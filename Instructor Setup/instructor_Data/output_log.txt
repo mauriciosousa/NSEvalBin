@@ -1,0 +1,205 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K5000 (ID=0x11ba)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\System.dll (this message is harmless)
+desktop: 1080x1920 60Hz; virtual: 1080x1920 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.014342 ms
+Found: Instructor.machine.address - 192.168.0.101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.rpc.port - 5000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.rcv.handheld.port - 5101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.tracker.broadcast.port - 5102
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.tracker.listen.port - 5103
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.avatar.listen.port - 5109
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.local.surface.listen - 5105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Instructor.remote.surface.listen - 5106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: ns.length - 0.50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: rpc.server.address - 192.168.0.111
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.machine.address - 192.168.0.112
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.rpc.port - 5000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.rcv.handheld.port - 5001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.tracker.broadcast.port - 5002
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.tracker.listen.port - 5003
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.avatar.listen.port - 5009
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.local.surface.listen - 5005
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: Assembler.remote.surface.listen - 5006
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: ns.length - 0.50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found: rpc.server.address - 192.168.0.111
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (SurfaceRequestListener): Will request a local surface from 5105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (SurfaceRequestListener): Will request a remote surface from 5005
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (SurfaceRequestListener): Awaiting Surfaces: remote at 5106, local at 5105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (SurfaceRequest): Requesting local surface to 192.168.0.101:5103 to receive in 5105
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (SurfaceRequest): Requesting remote surface to 192.168.0.112:5003 to receive in 5106
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received Remote Surface: BL(0.4, 0.6, 1.8), BR(-0.3, 0.6, 1.8), TL(0.4, 1.8, 1.7), TR(-0.3, 1.8, 1.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received Local Surface: BL(0.4, 0.6, 2.3), BR(-0.3, 0.6, 2.4), TL(0.4, 1.8, 2.2), TR(-0.3, 1.8, 2.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+XXX  Main (Main): Creating the negative world!!!!! XXX
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[UDPHandheldListener] Listening at port 5101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (NegativeSpace): Receiving Handheld data in 5101
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Main (TcpKinectListener): TcpListen at port 5009
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+E:/GitHub/NSEvalBin/Instructor Setup/instructor_Data/Solutions/
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Solution: new solution 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkerboard (Checkerboard): Scaling to 0.095
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Checkerboard (CheckerboardClient)[RPC]: trying to connect to 192.168.0.111:5000
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 22ac -> priority: 1 
+  Thread -> id: 10a8 -> priority: 1 
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 316)
+
