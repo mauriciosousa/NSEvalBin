@@ -19,7 +19,7 @@ Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\
 Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.033 seconds
+- Completed reload, in  0.021 seconds
 Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\System.dll (this message is harmless)
 desktop: 1080x1920 60Hz; virtual: 1080x1920 at 0,0
@@ -27,7 +27,7 @@ desktop: 1080x1920 60Hz; virtual: 1080x1920 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.014342 ms
+UnloadTime: 0.897021 ms
 Found: Instructor.machine.address - 192.168.0.101
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -128,11 +128,11 @@ Main (SurfaceRequest): Requesting remote surface to 192.168.0.112:5003 to receiv
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Received Remote Surface: BL(0.4, 0.6, 1.8), BR(-0.3, 0.6, 1.8), TL(0.4, 1.8, 1.7), TR(-0.3, 1.8, 1.7)
+Received Local Surface: BL(0.4, 0.6, 2.3), BR(-0.3, 0.6, 2.4), TL(0.4, 1.8, 2.2), TR(-0.3, 1.8, 2.3)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Received Local Surface: BL(0.4, 0.6, 2.3), BR(-0.3, 0.6, 2.4), TL(0.4, 1.8, 2.2), TR(-0.3, 1.8, 2.3)
+Received Remote Surface: BL(0.4, 0.6, 1.8), BR(-0.3, 0.6, 1.8), TL(0.4, 1.8, 1.7), TR(-0.3, 1.8, 1.7)
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -197,9 +197,81 @@ Checkerboard (CheckerboardClient)[RPC]: trying to connect to 192.168.0.111:5000
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 22ac -> priority: 1 
-  Thread -> id: 10a8 -> priority: 1 
+  Thread -> id: 3f18 -> priority: 1 
+  Thread -> id: 1560 -> priority: 1 
 Receiving state for an object whose network view exists but the observed object no longer exists
  
 (Filename:  Line: 316)
 
+Checkerboard (CheckerboardClient): Start: condition 1, puzzle 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PinkCube   box(0,6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PinkCube   box(0,6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+YellowCube   box(4,6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+YellowCube   box(4,6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RedCube   box(0,0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RedCube   box(0,0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BlueCube   box(4,0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BlueCube   box(4,0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GreenCube   box(3,3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GreenCube   box(3,3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K5000 (ID=0x11ba)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GitHub\NSEvalBin\Instructor Setup\instructor_Data\Managed\System.dll (this message is harmless)
+desktop: 1080x1920 60Hz; virtual: 1080x1920 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
