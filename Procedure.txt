@@ -1,0 +1,42 @@
+==PROCEDIMENTO==
+
+Definição das condições: 
+
+C1. Exactamente igual á vida real. Como se as pessoas estivessem a trabalhar frente a frente com uma mesa no meio.
+
+C2. Continua frente a frente, mas as duas pessoas partilham a mesmo ponto de vista. Como se tivessem lado a lado.
+
+C3. A pessoa para lá do ecran está invertida na horizontal como se fosse um espelho.
+
+C4. O Tabuleiro está invertido na horizontal
+
+========================================================================
+
+<os dois participantes na 121>
+1. Intro 
+Olá, nós estamos a fazer uma avaliação para determinar quais são as condições ideais para duas pessoas colaborarem num sistema de teleconferencia.
+Por isso, vamos pedir para fazerem umas tarefas onde um de voces ajuda o outro a montar um puzzle simples.
+
+2. Despiste de daltonismo
+
+3. Dados para determinar o primeiro instrutor.
+
+<cada participante na sua sala>
+
+{
+  3. Tarefa de habituação
+  4. Tarefa
+  5. Quest da tarefa: https://goo.gl/forms/aptWS03RBMKb7UL32
+} x4
+
+
+
+<participantes trocam de sala>
+{
+  3. Tarefa de habituação
+  4. Tarefa
+  5. Quest da tarefa: https://goo.gl/forms/aptWS03RBMKb7UL32
+} x4
+
+6. Quest Perfil:  https://goo.gl/forms/fqZ7efFyDTIjQWv63
+
